@@ -1,0 +1,53 @@
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# test
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# db
+*.sqlite3
+*.db
+*.bak
+*.dump
+
+# fastapi
+data/uploaded/
+data/embedding/
+instance/
+*.pid

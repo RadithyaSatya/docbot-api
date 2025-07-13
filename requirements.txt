@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+PyMuPDF
+scikit-learn
+sentence-transformers
+psycopg2
+groq
+python-dotenv
